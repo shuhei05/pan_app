@@ -14,4 +14,5 @@ Admin.create!(
 Admin.create!(
   email: "bbb@bbb",
   password:  "bbbbbb"
+  
 )
